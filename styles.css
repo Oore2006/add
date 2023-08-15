@@ -49,6 +49,7 @@ main-intro{
 body{
     background: #212529;
     color: white;
+    max-width:  100%;
 }
 .section-padding{
     padding: 100px 0;
